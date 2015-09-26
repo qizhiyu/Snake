@@ -49,7 +49,7 @@ namespace Snake
 
         private void CreateArena()
         {
-            arena = new Arena(PanelArena.Width / 10, PanelArena.Height / 10);
+			arena = new Arena(PanelArena.Width / ArenaView.SIZE, PanelArena.Height / ArenaView.SIZE);
         }
 
         private void SnakeMainForm_KeyDown(object sender, KeyEventArgs e)

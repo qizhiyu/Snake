@@ -1,11 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{945D6FCB-A02E-4E13-B242-6E2B3F7CA126}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake.Logic", "Logic\Snake.Logic.csproj", "{3C0436CD-7B84-4FC8-ACF4-46B00842699D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +13,6 @@ Global
 		{945D6FCB-A02E-4E13-B242-6E2B3F7CA126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{945D6FCB-A02E-4E13-B242-6E2B3F7CA126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{945D6FCB-A02E-4E13-B242-6E2B3F7CA126}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C0436CD-7B84-4FC8-ACF4-46B00842699D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C0436CD-7B84-4FC8-ACF4-46B00842699D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C0436CD-7B84-4FC8-ACF4-46B00842699D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C0436CD-7B84-4FC8-ACF4-46B00842699D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
